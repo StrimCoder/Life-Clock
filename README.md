@@ -42,3 +42,20 @@ A Python-Dash dashboard to visualize how you spend your time and how much of you
 - Dash
 - Plotly
 - Pandas
+
+## 🙌 Contribution  
+
+Contributions, ideas, and suggestions are always welcome!  
+Feel free to check the [issues page](https://github.com/StrimCoder/The-BigBull---Stock-Prediction-Model/issues) or submit a pull request.
+
+## 📃 License  
+
+This project is **open-source** and available under the [MIT License](LICENSE).
+
+## 👑 Created By  
+
+**Bhushan Navsagar** ✨  
+[GitHub](https://github.com/StrimCoder) | [LinkedIn](https://www.linkedin.com/in/bhushan-navsagar-2b683a293/)
+
+
+
