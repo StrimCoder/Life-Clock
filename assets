@@ -1,0 +1,37 @@
+/* Custom CSS for Life Clock Dashboard */
+body {
+    margin: 0;
+    font-family: 'Roboto', 'Segoe UI', Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Slider customization */
+.rc-slider-track {
+    background-color: #007bff;
+}
+
+.rc-slider-handle {
+    border-color: #007bff;
+}
+
+.rc-slider-handle:hover {
+    border-color: #0056b3;
+}
+
+.rc-slider-handle:active {
+    border-color: #0056b3;
+    box-shadow: 0 0 5px #0056b3;
+}
+
+/* Button hover effect */
+button:hover {
+    background-color: #0069d9 !important;
+    transition: background-color 0.3s;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .dash-graph {
+        height: 300px !important;
+    }
+}
